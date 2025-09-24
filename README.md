@@ -11,9 +11,13 @@
     <a href="https://www.ibm.com/developerworks/learn/java/">
     <img src="https://img.shields.io/badge/platform-java-lightgrey.svg?style=flat" alt="platform">
     </a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FMetras%2FRational?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FMetras%2FRational.svg?type=shield"/></a>
     <img src="https://img.shields.io/badge/license-Apache2-blue.svg?style=flat" alt="Apache 2">
 </p>
 
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMetras%2FRational.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FMetras%2FRational?ref=badge_large)
 
 # Create and deploy a Java - MicroProfile / Java EE application
 
